@@ -1,5 +1,7 @@
 # chutes-and-ladders
 
+You'll likely want to start with the Jupyter Notebook file [chutes_and_ladders.ipynb](chutes_and_ladders.ipynb).
+
 ### What is the EXACT probability of winning Chutes and Ladders?
 
 My kids like to joke that each game's instructions include the rule: "Daddy goes last." How much of an advantage does this give them?
