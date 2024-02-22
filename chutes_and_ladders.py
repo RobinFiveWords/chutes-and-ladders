@@ -248,7 +248,7 @@ board_10 = Board("""
 
 
 def main():
-    return board.exact()
+    return solve(board)
 
 
 if __name__ == '__main__':
